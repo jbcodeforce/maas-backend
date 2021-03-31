@@ -1,0 +1,1 @@
+INSERT INTO kafka_clusters(id,clusterName,bootstrapURL) VALUES (1,'eda-dev','eda-dev-kafka-bootstrap-eventstreams.assets-arch-eda-6ccd7f378ae819553d37d5f2ee142bd6-0000.us-east.containers.appdomain.cloud');
